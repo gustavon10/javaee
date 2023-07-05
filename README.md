@@ -1,12 +1,12 @@
 # javaee
-Java WEB - Agenda de contatos
+## Java WEB - Agenda de contatos
 
-  Tecnologias usadas:
-Servidor Tomcat
-Java EE - Servlet e JSP
-IDE Eclipse
-MySQL (CRUD - Create Read Update Delete)
-MVC (Model View Controller)
-JavaBeans
-JDBC (Java Database Connectivity)
-iText
+  ### Tecnologias usadas:<br>
++ Servidor Tomcat <br>
++ Java EE - Servlet e JSP <br>
++ IDE Eclipse <br>
++ MySQL (CRUD - Create Read Update Delete) <br>
++ MVC (Model View Controller)  <br>
++ JavaBeans <br>
++ JDBC (Java Database Connectivity) <br>
++ iText
